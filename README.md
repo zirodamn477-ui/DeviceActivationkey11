@@ -14,7 +14,7 @@
         {
         "device_id": "ac45272087831321",
         "key": "1234567",
-        "expirydate": "12-012-2025",
+        "expirydate": "13-012-2025",
         "Allowoffline": false
     }
 ]
